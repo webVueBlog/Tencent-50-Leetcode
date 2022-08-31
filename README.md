@@ -1,6 +1,6 @@
 # Tencent-50-Leetcode
 
-🐧 腾讯精选练习 50 题
+🐧 腾讯精选练习 50 题  💬 微信交流: xiaoda0423⚡ 👉 如果你有问题
 
 <img width="300px" src="https://user-images.githubusercontent.com/59645426/187235097-87ecc3d9-1bfa-4e7c-8c0c-7b262659aec9.jpg"/>
 
